@@ -1,8 +1,9 @@
 # Análise da Utilização de Simuladores para Estimar o Consumo Energético em Ambientes de Cloud Computing.
 
-Autores: Vinícius Meyer (PUCRS-Brazil), Rafael Krindges (PUCRS-Brazil), Tiago Ferreto (PUCRS-Brazil), Cesar De Rose (PUCRS-Brazil), Fabiano Hessel (PUCRS-Brazil).
+Autores: Vinícius Meyer<sup>1</sup>, Rafael Krindges<sup>1</sup>, Tiago Ferreto<sup>1</sup>, Cesar A. F. De Rose <sup>1</sup>, Fabiano Hessel<sup>1</sup>.
+1- Pontifícia Universidade Católica do Rio Grande do Sul
 
-Neste repositório encontram-se todos os arquivos utilizados na realização de artigo submetido e aceito no XIX Simpósio de Sistemas Computacionais de Alto Desempenho (WSCAD2018)
+Neste repositório encontram-se todos os arquivos utilizados na realização de artigo submetido e aceito no **XIX Simpósio de Sistemas Computacionais de Alto Desempenho (WSCAD2018)**
 
 Link para download dos Anais da WSCAD 2018:
 http://www2.sbc.org.br/wscad/current/anais/anais-wscad-2018.pdf
